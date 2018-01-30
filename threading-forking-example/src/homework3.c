@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : homework3.c
- Author      : 
- Version     :
+ Author      : taylor ereio
+ Version     : 0.0.1
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
@@ -46,5 +46,3 @@ int main(void) {
 	}
 	return EXIT_SUCCESS;
 }
-
-
